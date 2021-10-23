@@ -1,0 +1,14 @@
+{
+    "name": "level_info",
+    "description": "Saves levels info",
+    "author": "me",
+    "contact": "me",
+    "version": "1.0",
+    "blt_version": 2,
+    "hooks": [
+        {
+            "hook_id": "lib/setups/menusetup",
+            "script_path": "src/level_info.lua"
+        }
+    ]
+}
