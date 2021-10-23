@@ -1,0 +1,4 @@
+The updates mechanic are based on the WolfHUD 
+Which uses github/git archive
+The archive output is automatically name to repo-[branch] 
+The mod folder name must be named as such ... 'pd2_level_info-master'

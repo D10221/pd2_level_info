@@ -1,5 +1,5 @@
 {
-    "name": "level_info",
+    "name": "pd2_level_info",
     "description": "Saves levels info",
     "author": "d10221",
     "contact": "https://github.com/D10221/pd2_level_info/issues",
@@ -9,6 +9,14 @@
         {
             "hook_id": "lib/setups/menusetup",
             "script_path": "src/level_info.lua"
+        }
+    ],
+    "updates": [
+        {
+            "identifier": "level_info",
+            "host": {
+                "meta": "https://github.com/D10221/pd2_level_info/raw/updates/meta.json"
+            }
         }
     ]
 }
