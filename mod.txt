@@ -15,7 +15,7 @@
         {
             "identifier": "level_info",
             "host": {
-                "meta": "https://github.com/D10221/pd2_level_info/raw/updates/meta.json"
+                "meta": "https://raw.githubusercontent.com/D10221/pd2_level_info/master/updates/meta.json"
             }
         }
     ]
