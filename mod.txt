@@ -5,6 +5,7 @@
     "contact": "https://github.com/D10221/pd2_level_info/issues",
     "version": "1.0",
     "blt_version": 2,
+    "image": "icon.png",
     "hooks": [
         {
             "hook_id": "lib/setups/menusetup",
